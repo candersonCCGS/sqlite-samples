@@ -10,28 +10,6 @@ h1 {
     padding: 40px;
 }
 
-table tr {
-    border-collapse: collapse;
-    border: #2F5233 2px solid;
-}
-
-thead tr {
-    background-color: #2F5233;
-    color: #B1D8B7;
-}
-
-th {
-    padding: 10px 5px;
-}
-
-tbody tr:nth-child(even) {
-    background-color: #B2D2A4;
-}
-
-tbody tr:nth-child(odd) {
-    background-color: #94C973;
-}
-
 .querySection {
     border: #2F5233 6px solid;
     border-radius: 10px;
@@ -57,23 +35,26 @@ tbody tr:nth-child(odd) {
     width: 1000px;
 }
 
-.querySection p, header p, footer p {
+.querySection p {
     margin: 0;
     padding: 0;
 }
-.querySection a, header a, footer a {
+.querySection a {
     background-color: #94C973;
     padding: 20px 30px;
     border-radius: 10px;
     text-decoration: none;
-    color: black;
+    color: #2F5233;
     display: block;
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
-header a, footer a {
+header, footer {
+    background-color: #94C973;
+    padding: 5px 20px;
+    border-radius: 10px;
     color: #2F5233;
-    text-align: center;
-    font-size: larger;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
