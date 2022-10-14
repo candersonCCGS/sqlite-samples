@@ -1,0 +1,61 @@
+AREA_ID,NAME,REGION_ID
+1,Murray,1
+2,South of River,2
+3,North of River,2
+4,Mandurah,1
+5,East/Hills,2
+6,Albany,3
+7,Geraldton,4
+8,Harvey,5
+9,Augusta-M River,5
+10,Broome,6
+11,Busselton,5
+12,Carnarvon,7
+13,Derby,6
+14,Cunderdin,8
+15,Denmark,3
+16,D-Brook/Bal-Up,5
+17,Busselton-Shire,5
+18,Kalgoorlie,9
+19,Jurien,8
+20,Boulder,9
+21,Kambalda,9
+22,Karratha,10
+23,Kununurra,6
+24,Manjimup,5
+25,Moora,8
+26,Mt Barker,3
+27,Munglinup,9
+28,Narrogin,8
+29,Newman,10
+30,Norseman,9
+31,Bunbury,5
+32,Port Hedland,10
+33,Ravensthorpe,9
+34,B-Town/G-Bushes,5
+35,Dongara,4
+36,Williams,8
+37,Wubin,8
+38,Capel,5
+39,Collie,5
+40,Coolgardie,9
+41,Dardanup,5
+42,Esperance,9
+43,Exmouth,7
+44,Northam,8
+45,Dampier,10
+46,Fitzroy Cross,6
+47,Meekatharra,4
+48,Dalwallinu,8
+49,Waroona,1
+50,York,8
+51,Kojonup,3
+52,Cataby,8
+53,Greenough,4
+54,Wundowie,8
+55,Tammin,8
+56,Meckering,8
+57,North Bannister,8
+58,Kellerberrin,8
+59,Regans Ford,8
+60,Northam-Shire,8

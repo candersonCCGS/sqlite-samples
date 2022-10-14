@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fuel Watch Database</title>
+    <link href="main_style.css" rel="stylesheet">
+</head>
+<body>
+    <div id="container">
+        <h1>Data from the Fuel Watch website</h1>
+
+        <div class="querySection">
+            <p><a href="cgi-bin/createDB.py">Create a fresh database (with no data)</a></p>
+            <p><a href="cgi-bin/insert_data.py">Insert Test Database</a></p>
+        </div>
+
+        <div class="querySection">
+                <p><a href="cgi-bin/select_all_stations.py">Find information about all the stations</a></p>
+                <p><a href="cgi-bin/select_all_areas.py">Find information about all the areas</a></p>
+                <p><a href="cgi-bin/select_all_diesel.py">Find information about all the stations</a></p>
+                <p><a href="cgi-bin/select_stations_per_city.py">Find number of stations in each city</a></p>
+            </ul>
+        </div>
+
+        <div class="querySection">
+            <div class="queryForm">
+                <h3>Stations in an area</h3>
+                <form action="cgi-bin/select_find_cities.py">
+                    Find the cities with stations in a particular area of the state.<br />
+                    Enter the area: <input type="text" name="area_value" /><br />
+                    <input type="submit">
+                </form>
+            </div>
+            <div class="queryForm">
+                <h3>Brands in a Region</h3>
+                <form action="cgi-bin/select_brands_in_region.py">
+                    Find all the station of a particular brand in a region.<br />
+                    Enter the brand: <input type="text" name="brand_value" /><br />
+                    Enter the region: <input type="text" name="region_value" /><br />
+                    <input type="submit">
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

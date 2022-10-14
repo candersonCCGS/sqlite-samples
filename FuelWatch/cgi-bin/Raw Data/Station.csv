@@ -1,0 +1,689 @@
+STATION_ID,NAME,BRAND_ID,ADDRESS,CITY,POSTCODE,AREA_ID
+1,53 Mile Roadhouse,1,31 South Western Hwy,PINJARRA,6208,1
+2,7-Eleven Ascot,2,194 Great Eastern Hwy,ASCOT,6104,2
+3,7-Eleven Balcatta,2,174 Balcatta Rd,BALCATTA,6021,3
+4,7-Eleven Balga,2,102 Princess Rd,BALGA,6061,3
+5,7-Eleven Banksia Grove,2,81 Ghost Gum Bvd,BANKSIA GROVE,6031,3
+6,7-Eleven Bassendean,2,302-318 Collier Rd,BASSENDEAN,6054,3
+7,7-Eleven Bibra Lake,2,35 Port Kembla Dr,BIBRA LAKE,6163,2
+8,7-Eleven Butler,2,270 Butler Bvd,BUTLER,6036,3
+9,7-Eleven Byford South,2,25 Abernethy Rd,BYFORD,6122,2
+10,7-Eleven Canning Vale,2,215 Campbell Rd,CANNING VALE,6155,2
+11,7-Eleven Carlisle,2,44 Archer St (Cnr Orrong Rd),CARLISLE,6101,2
+12,7-Eleven Caversham,2,2131 West Swan Rd,CAVERSHAM,6055,3
+13,7-Eleven Cockburn Central,2,814 North Lake Rd,COCKBURN CENTRAL,6164,2
+14,7-Eleven Forrestdale,2,2 Haydock St,FORRESTDALE,6112,2
+15,7-Eleven Gosnells,2,303 Corfield St,GOSNELLS,6110,2
+16,7-Eleven Greenfields South,2,13 Lakes Rd,GREENFIELDS,6210,4
+17,7-Eleven Greenfields,2,1 Eaglemont St,GREENFIELDS,6210,4
+18,7-Eleven Harrisdale,2,120 Yellowwood Ave,HARRISDALE,6112,2
+19,7-Eleven Haynes,2,1256 Armadale Rd,ARMADALE,6112,2
+20,7-Eleven Joondalup,2,8 Buick Way,JOONDALUP,6027,3
+21,7-Eleven Kelmscott Central,2,4 Church St,KELMSCOTT,6111,2
+22,7-Eleven Kelmscott,2,105 Champion Dr,KELMSCOTT,6111,2
+23,7-Eleven Landsdale,2,8 Mullingar Way,LANDSDALE,6065,3
+24,7-Eleven Maddington South,2,1969 Albany Hwy,MADDINGTON,6109,2
+25,7-Eleven Malaga,2,750 Marshall Rd (Cnr Guadalupe Rd),MALAGA,6090,3
+26,7-Eleven Malvern Springs,2,324 The Broadway,ELLENBROOK,6069,3
+27,7-Eleven Mandurah,2,296-298 Pinjarra Rd,MANDURAH,6210,4
+28,7-Eleven Middle Swan,2,40-42 Great Northern Hwy,MIDDLE SWAN,6056,5
+29,7-Eleven Midvale,2,231 Morrison Rd,MIDVALE,6056,5
+30,7-Eleven Morley,2,162 Russell St,MORLEY,6062,3
+31,7-Eleven Queens Park,2,235 Welshpool Rd,QUEENS PARK,6107,2
+32,7-Eleven Rockingham,2,129 Dixon Rd,EAST ROCKINGHAM,6168,2
+33,7-Eleven Southern River,2,481 Balfour St,SOUTHERN RIVER,6110,2
+34,7-Eleven Success,2,660 Beeliar Dr,SUCCESS,6164,2
+35,7-Eleven Thornlie,2,125 Murdoch Rd,THORNLIE,6108,2
+36,7-Eleven Wangara,2,79 Gnangara Rd,WANGARA,6065,3
+37,7-Eleven Wanneroo South,2,929-931 Wanneroo Rd,WANNEROO,6065,3
+38,7-Eleven Wanneroo,2,990 Wanneroo Rd,WANNEROO,6065,3
+39,7-Eleven Wattle Grove,2,332 Hale Rd,WATTLE GROVE,6107,5
+40,86 On South,3,86 South Coast Hwy,ALBANY,6330,6
+41,BOC Gas & Gear,4,287 Place Rd,GERALDTON,6530,7
+42,BP 2go Armadale,5,3249 Albany Hwy,ARMADALE,6112,2
+43,BP 2go Australind,5,80 Old Coast Rd,AUSTRALIND,6233,8
+44,BP 2go Bellevue,5,59 Great Eastern Hwy,BELLEVUE,6056,5
+45,BP 2go Burrendah,5,69 Pinetree Gully Rd (Cnr Burrendah Bvd),WILLETTON,6155,2
+46,BP 2go Cannington,5,1443 Albany Hwy,CANNINGTON,6107,2
+47,BP 2go Collins Road,5,121 Collins Rd (Cnr Willeri Dr),WILLETTON,6155,2
+48,BP 2go Morrison Road,5,226 Morrison Rd,MIDVALE,6056,5
+49,BP 2go Noranda,5,40 Benara Rd,NORANDA,6062,3
+50,BP 2go Silver Sands,5,187 Mandurah Tce,MANDURAH,6210,4
+51,BP 2go Woodvale,5,941 Whitfords Ave (Cnr Trappers Dr),WOODVALE,6026,3
+52,BP Allway,5,35 Albany Hwy,ALBANY,6330,6
+53,BP Applecross,5,848 Canning Hwy,APPLECROSS,6153,2
+54,BP Attadale,5,530 Canning Hwy (Cnr Hislop St),ATTADALE,6156,2
+55,BP Augusta,5,100-102 Blackwood Ave,AUGUSTA,6290,9
+56,BP Balcatta,5,53 Erindale Rd,BALCATTA,6021,3
+57,BP Baldivis Northbound Travel Centre,5,Lot 191 Paparone Rd,BALDIVIS,6171,2
+58,BP Baldivis Southbound Travel Centre,5,Lot 192 Leary Rd,BALDIVIS,6171,2
+59,BP Baldivis West,5,1/909 Mandurah Rd,BALDIVIS,6171,2
+60,BP Ballajura,5,2 Illawarra Cres North (Cnr Alexander Dr),BALLAJURA,6066,3
+61,BP Baskerville,5,1084 Great Northern Hwy,BASKERVILLE,6056,5
+62,BP Beeliar,5,701 Beeliar Dr,COCKBURN CENTRAL,6164,2
+63,BP Beldon,5,261 Eddystone Ave,BELDON,6027,3
+64,BP Bibra Lake,5,2 Wellard St,BIBRA LAKE,6163,2
+65,BP Broome Central Service Centre,5,2 Coghlan St (Cnr Frederick St),BROOME,6725,10
+66,BP Bull Creek,5,83 Wheatley Dr (Cnr Parry Ave),BULL CREEK,6149,2
+67,BP Busselton,5,24 Albert St,BUSSELTON,6280,11
+68,BP Canning Vale OPT,5,13 Bannister Rd,CANNING VALE,6155,2
+69,BP Carnarvon,5,1134 North West Coastal Hwy,CARNARVON,6701,12
+70,BP Caversham,5,40 Bennett St,CAVERSHAM,6055,3
+71,BP Clarkson,5,28K Caloundra Rd,CLARKSON,6030,3
+72,BP Colac,5,138 Loch St,DERBY,6728,13
+73,BP Connect Ascot (WA),5,210 Great Eastern Hwy (Cnr Resolution Dr),ASCOT,6104,2
+74,BP Connect Beaumauris,5,2 Prendiville Ave (Cnr Marmion Ave),OCEAN REEF,6027,3
+75,BP Connect Carlisle,5,44 Archer St (Cnr Orrong Rd),CARLISLE,6101,2
+76,BP Connect Currambine,5,2 Sunlander Dr (Cnr Burns Beach Rd),CURRAMBINE,6028,3
+77,BP Connect East Perth,5,68-70 Brown St (Cnr East Pde),EAST PERTH,6004,3
+78,BP Connect Karrinyup,5,190 Karrinyup Rd (Cnr Burroughs Rd),KARRINYUP,6018,3
+79,BP Connect Kwinana Hub,5,4 Chisham Ave (Cnr Gilmore Ave),KWINANA TOWN CENTRE,6167,2
+80,BP Connect Main Street,5,218 Main St (Cnr Royal St),OSBORNE PARK,6017,3
+81,BP Connect Merriwa,5,2 Ridgewood Bvd (Cnr Hester Ave),RIDGEWOOD,6030,3
+82,BP Connect Myaree,5,246 Leach Hwy,MYAREE,6154,2
+83,BP Connect North Perth,5,349 Charles St (Cnr Scarborough Beach Rd),NORTH PERTH,6006,3
+84,BP Connect Padbury,5,2 Warburton Ave (Cnr Marmion Ave),PADBURY,6025,3
+85,BP Connect Palm Springs,5,214 Warnbro Sound Ave (Cnr Halliburton Ave),WARNBRO,6169,2
+86,BP Connect Phoenix,5,Cnr Rockingham Rd & Phoenix Rd,SPEARWOOD,6163,2
+87,BP Connect Riverton,5,339 High Rd,RIVERTON,6148,2
+88,BP Connect Rockingham Park,5,2 Chalgrove Ave (Cnr Read St),ROCKINGHAM,6168,2
+89,BP Connect South Perth,5,9 Mends St,SOUTH PERTH,6151,2
+90,BP Connect Thomsons Lake,5,810 Beeliar Dr (Cnr Midgegooroo Ave),SUCCESS,6164,2
+91,BP Connect Wellington Rd,5,257 Walter Rd (Cnr Wellington Rd),MORLEY,6062,3
+92,BP Connect Wembley,5,240 Cambridge St,WEMBLEY,6014,3
+93,BP Connect West Coast,5,11 Scarborough Beach Rd (Cnr West Coast Hwy),SCARBOROUGH,6019,3
+94,BP Cowaramup,5,1 Roy Earl Dr (Cnr Bussel Hwy),COWARAMUP,6284,9
+95,BP Crystal Brook (Lesmurdie),5,7 Welshpool Rd East,LESMURDIE,6076,5
+96,BP Cunderdin Roadhouse,5,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,14
+97,BP Denmark,5,14 High St,DENMARK,6333,15
+98,BP Derby Depot (Recharge Petroleum),5,19 Rodgers St,DERBY,6728,13
+99,BP Dog Swamp,5,4 Wanneroo Rd,YOKINE,6060,3
+100,BP Donnybrook,5,15 South Western Hwy,DONNYBROOK,6239,16
+101,BP Dunsborough,5,238 Naturaliste Terrace (Cnr Dunn Bay Rd),DUNSBOROUGH,6281,17
+102,BP Embleton,5,484 Walter Rd East,EMBLETON,6062,3
+103,BP Forrestdale,5,2 Alex Wood Dr,FORRESTDALE,6112,2
+104,BP Forrestfield,5,155 Hale Rd,FORRESTFIELD,6058,5
+105,BP Geraldton OPT,5,Lot 1662 Shenton St,GERALDTON,6530,7
+106,BP Golden Gate,5,438 Hannan St (Cnr Lionel St),KALGOORLIE,6430,18
+107,BP Greenwood,5,19 Coolibah Dr,GREENWOOD,6024,3
+108,BP Halls Head,5,2 Peelwood Pde,HALLS HEAD,6210,4
+109,BP Henley Brook,5,1520 Gnangara Rd,HENLEY BROOK,6055,3
+110,BP Huntingdale,5,68 Warton Rd (Cnr Matilda Rd),HUNTINGDALE,6110,2
+111,BP Jindalee,5,2 Abello Bvd (Cnr Marmion Ave),JINDALEE,6036,3
+112,BP Jurien Bay,5,110 Bashford St,JURIEN BAY,6516,19
+113,BP Kalgoorlie-Boulder Truckstop,5,248 Celebration Rd,BOULDER,6432,20
+114,BP Kambalda,5,Lot 35 Goldfields Hwy,KAMBALDA EAST,6442,21
+115,BP Karratha Depot (Recharge Petroleum),5,1033 Mardie Rd,KARRATHA,6714,22
+116,BP Karratha Service Station,5,30 Balmoral Rd (Cnr Warambie Rd),KARRATHA,6714,22
+117,BP Karratha West,5,9 Exploration Dr,KARRATHA,6714,22
+118,BP Kelmscott,5,2907 Albany Hwy,KELMSCOTT,6111,2
+119,BP Kenwick,5,40 Courtney Pl,WATTLE GROVE,6107,2
+120,BP Kewdale,5,549 Abernethy Rd,KEWDALE,6105,2
+121,BP Koondoola,5,28 Koondoola Ave (Cnr Burbridge Ave),KOONDOOLA,6064,3
+122,BP Kununurra Depot (Recharge Petroleum),5,Cnr Stockman Rd & Bull Run Rd,KUNUNURRA,6743,23
+123,BP Langford,5,230-234 Nicholson Rd,LANGFORD,6147,2
+124,BP Maida Vale,5,269 Kalamunda Rd,MAIDA VALE,6057,5
+125,BP Mandurah,5,304 Pinjarra Rd,MANDURAH,6210,4
+126,BP Manjimup,5,96 Giblett St,MANJIMUP,6258,24
+127,BP Manning,5,73 Manning Rd,MANNING,6152,2
+128,BP Mindarie,5,360 Anchorage Dr N (Cnr Marmion Ave),MINDARIE,6030,3
+129,BP Moora Depot,5,153 Gardiner St,MOORA,6510,25
+130,BP Morley,5,335 Walter Rd (Cnr Crimea St),MORLEY,6062,3
+131,BP Mount Barker,5,25 Mitchell Rd (Cnr Lowood Rd),MOUNT BARKER,6324,26
+132,BP Mullaloo,5,101 Dampier Av,MULLALOO,6027,3
+133,BP Munglinup,5,14-16 Tubada St,MUNGLINUP,6450,27
+134,BP Narrogin,5,37 Federal St,NARROGIN,6312,28
+135,BP Naval Base,5,1351 Rockingham Rd,NAVAL BASE,6165,2
+136,BP Newman South,5,101 Great Northern Hwy,NEWMAN,6753,29
+137,BP Norseman,5,Lot 2 Eyre Hwy (Cnr Coolgardie-Esperance Hwy),NORSEMAN,6443,30
+138,BP Parklands,5,85 Forrest Ave (Cnr Hennessy Rd),BUNBURY,6230,31
+139,BP Picton Truckstop,5,Lot 202 Wimbridge Rd,PICTON,6229,31
+140,BP Picton Wetherley Dr,5,24 Wetherly Dr,PICTON,6229,31
+141,BP Port Hedland,5,90 Anderson St,PORT HEDLAND,6721,32
+142,BP Port Kennedy,5,46 Bakewell Dr,PORT KENNEDY,6172,2
+143,BP Ravensthorpe,5,47 Morgans St,RAVENSTHORPE,6346,33
+144,BP Redcliffe,5,419 Great Eastern Hwy,REDCLIFFE,6104,2
+145,BP Roadhouse Bridgetown,5,43 Hampton St,BRIDGETOWN,6255,34
+146,BP Roadhouse Dongara,5,85 Brand Hwy,DONGARA,6525,35
+147,BP Roadhouse Harvey,5,18a South Western Hwy,HARVEY,6220,8
+148,BP Rosegarden,5,129 Stirling Hwy,NEDLANDS,6009,3
+149,BP Sawyers Valley,5,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,5
+150,BP Sorrento,5,128 West Coast Dr,SORRENTO,6020,3
+151,BP South Bunbury,5,190 Spencer St,BUNBURY,6230,31
+152,BP South Hedland,5,2 Throssell Rd (Cnr Forrest Cir),SOUTH HEDLAND,6722,32
+153,BP Spencer Park Service Station,5,27 Angove St,ALBANY,6330,6
+154,BP The Lakes Roadhouse,5,Cnr Great Eastern Hwy & Great Southern Hwy,THE LAKES,6556,5
+155,BP Waikiki,5,430 Safety Bay Rd (Cnr Malibu Rd),SAFETY BAY,6169,2
+156,BP Wedgefield OPT,5,Cnr Pinga St & Anthill St,WEDGEFIELD,6721,32
+157,BP Welshpool,5,1 Ballantyne Rd,KEWDALE,6105,2
+158,BP West Kalgoorlie,5,11 Wilurarra Rd (via Yulpari Rd),WEST KALGOORLIE,6430,20
+159,BP Westgate,5,85 Queen Victoria St,FREMANTLE,6160,2
+160,BP Williams Roadhouse,5,16 Albany Hwy,WILLIAMS,6391,36
+161,BP Wonthella Service Station,5,190 North West Coastal Hwy,GERALDTON,6530,7
+162,BP Woodbridge,5,380 Great Eastern Hwy,WOODBRIDGE,6056,3
+163,BP Wubin,5,80-82 Great Northern Hwy,WUBIN,6612,37
+164,Bakers Food and Fuel,6,46458 South Coast HwyKing River,ALBANY,6330,6
+165,Balingup Liquor & General Store,3,12 Bridgetown Rd,BALINGUP,6253,16
+166,Better Choice Augusta,7,64-66 Blackwood Ave,AUGUSTA,6290,9
+167,Better Choice Bellevue,7,177-179 Great Eastern Hwy,BELLEVUE,6056,5
+168,Better Choice Como,7,25 Preston St (Cnr Labouchere Rd),COMO,6152,2
+169,Better Choice Edgewater,7,21 Edgewater Dr,EDGEWATER,6027,3
+170,Better Choice Karridale Roadhouse,7,12440 Bussell Hwy,KARRIDALE,6288,9
+171,Better Choice Malaga,7,3 Carson Rd (Cnr Alexander Dr),MALAGA,6090,3
+172,Better Choice Margaret River,7,211 Bussell Highway (cnr John Archibald Dr),MARGARET RIVER,6285,9
+173,Better Choice Naval Base,7,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,2
+174,Better Choice Roleystone,7,770 Brookton Hwy,ROLEYSTONE,6111,5
+175,Better Choice Stratton,7,117 O'Connor Rd (Cnr Farrall Rd),STRATTON,6056,5
+176,Better Choice Tuart Hill,7,150 Wanneroo Rd,TUART HILL,6060,3
+177,Binningup General Store,8,21 Coronation Dr,BINNINGUP,6233,8
+178,Boyanup Fuels,3,17 South Western Hwy,BOYANUP,6237,38
+179,CGL Fuel,3,3 Bandicoot Dr,KUNUNURRA,6743,23
+180,Caltex Albany,8,634 Menang Dr,ALBANY,6330,6
+181,Caltex Bibra Lake,8,5 Cocos Dr,BIBRA LAKE,6163,2
+182,Caltex Bridgetown - Truckstop,8,1 Spencer St,BRIDGETOWN,6255,34
+183,Caltex Collie Service Centre,8,124 Throssell St,COLLIE,6225,39
+184,Caltex Del Park,8,4267 South Western Hwy (Cnr Del Park Rd),NORTH DANDALUP,6207,1
+185,Caltex Denmark,8,69 South Coast Hwy,DENMARK,6333,15
+186,Caltex Kalgoorlie,8,2 Cunningham Rd (Cnr Great Eastern Hwy),WEST KALGOORLIE,6430,20
+187,Caltex Karratha Truckstop,8,1540 Anderson Rd,KARRATHA,6714,22
+188,Caltex Kwinana,8,Lot 500 Mandurah Rd (Cnr Wellard Rd),KWINANA BEACH,6167,2
+189,Caltex Malaga Drive,8,76 Malaga Dr (Cnr Truganina Rd),MALAGA,6090,3
+190,Caltex Manjimup OPT,8,54 Wetherell St,MANJIMUP,6258,24
+191,Caltex Moora,8,96 Gardiner St,MOORA,6510,25
+192,Caltex Narrogin,8,12 Clayton Rd,NARROGIN,6312,28
+193,Caltex Newman,8,131 Welsh Dr (Cnr Pardoo Dr),NEWMAN,6753,29
+194,Caltex North Road,8,204 North Rd,ALBANY,6330,6
+195,Caltex Picton,8,1 Wimbridge Rd,PICTON,6229,31
+196,Caltex Roadhouse Norseman,8,1 Princep St,NORSEMAN,6443,30
+197,Caltex Rous Head,8,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,2
+198,Caltex StarMart Altone Road,8,159 Altone Rd (Cnr Hull Way),BEECHBORO,6063,3
+199,Caltex StarMart Applecross,8,918 Canning Hwy (Cnr Kintail Rd),APPLECROSS,6153,2
+200,Caltex StarMart Broome,8,50 Mavis St,BROOME,6725,10
+201,Caltex StarMart Bunbury,8,1 Forrest Ave,BUNBURY,6230,31
+202,Caltex StarMart Busselton,8,115 Strelly St,BUSSELTON,6280,11
+203,Caltex StarMart Butler,8,11 Headingly Cr (Cnr Connolly Dr),BUTLER,6036,3
+204,Caltex StarMart Byford,8,Lot 22 South Western Hwy (Cnr Nettleton Rd),BYFORD,6122,2
+205,Caltex StarMart Canning Vale,8,1 Wilfred Rd (Cnr Ranford Rd),CANNING VALE,6155,2
+206,Caltex StarMart Cannington,8,1346 Albany Hwy,CANNINGTON,6107,2
+207,Caltex StarMart Carine,8,510 Beach Rd (Cnr Duffy Rd),CARINE,6020,3
+208,Caltex StarMart Carnarvon,8,595 Robinson St (Cnr North West Coastal Hwy),CARNARVON,6701,12
+209,Caltex StarMart Clarkson,8,7 Ocean Keys Bvd (Cnr Marmion Ave),CLARKSON,6030,3
+210,Caltex StarMart Coolgardie,8,110-114 Bayley St,COOLGARDIE,6429,40
+211,Caltex StarMart Dawesville,8,191 Bailey Bvd (Cnr Dawesville Bypa),DAWESVILLE,6211,4
+212,Caltex StarMart Doubleview,8,365 Scarborough Beach Rd,DOUBLEVIEW,6018,3
+213,Caltex StarMart East Perth,8,157 Lord St,PERTH,6000,3
+214,Caltex StarMart Eaton,8,1 Pratt Rd,EATON,6232,41
+215,Caltex StarMart Erskine,8,112 Oakleigh Dr (Cnr Old Coast Rd),ERSKINE,6210,4
+216,Caltex StarMart Esperance,8,59 Dempster St,ESPERANCE,6450,42
+217,Caltex StarMart Exmouth,8,77 Maidstone Cr,EXMOUTH,6707,43
+218,Caltex StarMart Forrestdale,8,63 Alex Wood Dr (Cnr Armadale Rd),FORRESTDALE,6112,2
+219,Caltex StarMart Glendalough,8,2 Jon Sanders Dr (Cnr Harborne St),GLENDALOUGH,6016,3
+220,Caltex StarMart Gosnells,8,158 Corfield St,GOSNELLS,6110,2
+221,Caltex StarMart Greenfields,8,35 Minilya Pkwy (Cnr Lakes Rd),GREENFIELDS,6210,4
+222,Caltex StarMart High Wycombe,8,967 Abernethy Rd (Cnr Grogan Rd),HIGH WYCOMBE,6057,5
+223,Caltex StarMart Highgate,8,342 Beaufort St (Cnr Bulwer St),PERTH,6000,3
+224,Caltex StarMart Joondalup,8,Lakeside Joondalup Shopping Centre,JOONDALUP,6027,3
+225,Caltex StarMart Kalgoorlie South,8,146 Boulder Rd (Cnr Connolly St),KALGOORLIE,6430,18
+226,Caltex StarMart Karratha,8,Lot 3861 Bathgate St (Cnr Tambrey Dr),KARRATHA,6714,22
+227,Caltex StarMart Kelmscott,8,2877 Albany Hwy,KELMSCOTT,6111,2
+228,Caltex StarMart Kewdale,8,2 Fenton St (Cnr Kewdale Rd),KEWDALE,6105,2
+229,Caltex StarMart Kingsley Drive,8,86 Kingsley Dr,KINGSLEY,6026,3
+230,Caltex StarMart Leederville,8,319 Vincent St,LEEDERVILLE,6007,3
+231,Caltex StarMart Maddington,8,18 Orchard Rd (Cnr Kelvin Rd),MADDINGTON,6109,2
+232,Caltex StarMart Midvale,8,375 Great Eastern Hwy,MIDVALE,6056,5
+233,Caltex StarMart Morley,8,296 Benara Rd (Cnr Beechboro Rd North),MORLEY,6062,3
+234,Caltex StarMart Mosman Park,8,676 Stirling Hwy,MOSMAN PARK,6012,3
+235,Caltex StarMart Mundaring,8,5895 Great Eastern Hwy,MUNDARING,6073,5
+236,Caltex StarMart Murdoch,8,10 Robson Way (Cnr South St),MURDOCH,6150,2
+237,Caltex StarMart Nedlands,8,1 Broadway (Cnr Stirling Hwy),NEDLANDS,6009,3
+238,Caltex StarMart Newman,8,Lot 1328 Newman Dr,NEWMAN,6753,29
+239,Caltex StarMart North Wanneroo,8,2624 Wanneroo Rd,NOWERGUP,6032,3
+240,Caltex StarMart Northlands,8,391 Wanneroo Rd,BALCATTA,6021,3
+241,Caltex StarMart O'Connor,8,309 Stock Rd (Cnr Sainsbury Rd),O'CONNOR,6163,2
+242,Caltex StarMart Riverton,8,270 High Rd,RIVERTON,6148,2
+243,Caltex StarMart Rivervale,8,111 Great Eastern Hwy,RIVERVALE,6103,2
+244,Caltex StarMart Rockingham,8,29 Dixon Rd,ROCKINGHAM,6168,2
+245,Caltex StarMart Scarborough,8,74 Scarborough Beach Rd,SCARBOROUGH,6019,3
+246,Caltex StarMart Secret Harbour,8,420 Secret Harbour Boulevard,SECRET HARBOUR,6173,2
+247,Caltex StarMart South Hedland,8,67 Hamilton Rd,SOUTH HEDLAND,6722,32
+248,Caltex StarMart Subiaco,8,194 Rokeby Rd,SUBIACO,6008,3
+249,Caltex StarMart Thornlie Square,8,316 Spencer Rd,THORNLIE,6108,2
+250,Caltex StarMart Thornlie,8,219 Yale Rd,THORNLIE,6108,2
+251,Caltex StarMart Warnbro,8,2 Bristol St (Cnr Warnbro Sound Ave),WARNBRO,6169,2
+252,Caltex StarMart Willetton,8,169 High Rd,WILLETTON,6155,2
+253,Caltex StarShop Balga,8,436 Wanneroo Rd,WESTMINSTER,6061,3
+254,Caltex StarShop Bannister Road,8,60 Bannister Rd,CANNING VALE,6155,2
+255,Caltex StarShop Beechboro,8,495 Beechboro Rd North,BEECHBORO,6063,3
+256,Caltex StarShop Bentley,8,91-93 Manning Rd (Cnr Wyong Rd),BENTLEY,6102,2
+257,Caltex StarShop Dianella,8,382 Grand Prom,DIANELLA,6059,3
+258,Caltex StarShop Gosnells North,8,2100 Albany Hwy (Cnr Mills St),GOSNELLS,6110,2
+259,Caltex StarShop Kalgoorlie,8,581 Hannan St (Cnr Ochiltree St),KALGOORLIE,6430,18
+260,Caltex StarShop Livingston,8,110 Ranford Rd,CANNING VALE,6155,2
+261,Caltex StarShop Miami,8,2 Baroy St (Cnr Old Coast Rd),FALCON,6210,4
+262,Caltex StarShop Mt Lawley,8,810 Beaufort St,MT LAWLEY,6050,3
+263,Caltex StarShop Seville Grove,8,537 Lake Rd,SEVILLE GROVE,6112,2
+264,Caltex StarShop South Lake,8,2 Omeo St (Cnr North Lake Rd),SOUTH LAKE,6164,2
+265,Caltex StarShop Swan View,8,309 Morrison Rd,SWAN VIEW,6056,5
+266,Caltex StarShop Wangara,8,79 Buckingham Dr (Cnr Hartman Dr),WANGARA,6065,3
+267,Caltex StarShop West Swan,8,6639 West Swan Rd,WEST SWAN,6055,3
+268,Caltex StarShop York St,8,271 York St,ALBANY,6330,6
+269,Caltex StarShop Yunderup,8,868 Pinjarra Rd (Cnr Tonkin Dr),NORTH YUNDERUP,6208,1
+270,Caltex The Foodary Ascot,8,204 Great Eastern Hwy,ASCOT,6104,2
+271,Caltex The Foodary Ashby,8,2 Hollosy Way (Cnr Pinjar Rd),ASHBY,6065,3
+272,Caltex The Foodary Baldivis,8,614 Baldivis Rd (Cnr Safety Bay Rd),BALDIVIS,6171,2
+273,Caltex The Foodary Belmont,8,303 Great Eastern Hwy,BELMONT,6104,2
+274,Caltex The Foodary Cockburn Central,8,1/5 Armadale Rd,JANDAKOT,6164,2
+275,Caltex The Foodary East Fremantle,8,176 Canning Hwy,EAST FREMANTLE,6158,2
+276,Caltex The Foodary Forrest Highway East,8,Lot 601 Forrest Hwy,WEST PINJARRA,6208,1
+277,Caltex The Foodary Forrest Highway West,8,Lot 602 Forrest Hwy,WEST PINJARRA,6208,1
+278,Caltex The Foodary Gelorup,8,39 Bussell Hwy,GELORUP,6230,38
+279,Caltex The Foodary Karrinyup,8,490 Karrinyup Rd,GWELUP,6018,3
+280,Caltex The Foodary Lakelands,8,Lot 50 Mandurah Rd,MEADOW SPRINGS,6210,4
+281,Caltex The Foodary Malaga,8,1 Capital Rd (Cnr Alexander Dr),MALAGA,6090,3
+282,Caltex The Foodary Melville,8,585 Canning Hwy (Cnr North Lake Rd),ALFRED COVE,6154,2
+283,Caltex The Foodary Stratton,8,240 Toodyay Rd (Cnr Lewis Jones Crss),STRATTON,6056,5
+284,Caltex The Foodary Williams,8,56 Albany Hwy,WILLIAMS,6391,36
+285,Caltex The Foodary Wonthella,8,40 North West Coastal Hwy,GERALDTON,6530,7
+286,Caltex The Foodary Yanchep,8,1 Morwell St,YANCHEP,6035,3
+287,Caltex The Foodary Yangebup,8,289 Beeliar Dr,YANGEBUP,6164,2
+288,Caltex Wedgefield,8,12-14 Cajarina Rd (Cnr Pardoo St),WEDGEFIELD,6721,32
+289,Caltex Welshpool,8,119 Kurnall Rd,WELSHPOOL,6106,2
+290,Caltex West Busselton,8,259 Bussell Hwy,WEST BUSSELTON,6280,11
+291,Caltex Woolworths Albany,9,Chester Pass Rd  Brooks Garden,ALBANY,6330,6
+292,Caltex Woolworths Alkimos,9,11 Shorehaven Bvd (Cnr Pacific Prom),ALKIMOS,6038,3
+293,Caltex Woolworths Aveley,9,317 Millhouse Rd,AVELEY,6069,3
+294,Caltex Woolworths Ballajura (Glenview),9,5 Hamelin Dr (Cnr Bellefin Dr),BALLAJURA,6066,3
+295,Caltex Woolworths Broome,9,Broome Boulevard Shopping Centre,BROOME,6725,10
+296,Caltex Woolworths Bunbury,9,Cnr Pennant Rd & Sandridge Rd,BUNBURY,6230,31
+297,Caltex Woolworths Busselton,9,36 Duchess St,BUSSELTON,6280,11
+298,Caltex Woolworths Canning Vale,9,15 Sarah Cl (Cnr Nicholson Rd),CANNING VALE,6155,2
+299,Caltex Woolworths Cannington,9,25 Cecil Ave,CANNINGTON,6107,2
+300,Caltex Woolworths Carnarvon,9,90-92 Robinson Rd (Cnr Worramel St),CARNARVON,6701,12
+301,Caltex Woolworths Currambine Marketplace,9,1244 Marmion Ave (Cnr Shenton Ave),CURRAMBINE,6028,3
+302,Caltex Woolworths Dianella,9,372 Grand Prom,DIANELLA,6059,3
+303,Caltex Woolworths Eaton Fair,9,Cnr Eaton Dr & Recreation Dr,EATON,6232,41
+304,Caltex Woolworths Ellenbrook,9,11 Main St (Cnr The Promenade),ELLENBROOK,6069,3
+305,Caltex Woolworths Floreat,9,5 Howtree Pl,FLOREAT,6014,3
+306,Caltex Woolworths Forrestfield,9,78C Hale Rd,FORRESTFIELD,6058,5
+307,Caltex Woolworths Geraldton,9,84 Sanford St,GERALDTON,6530,7
+308,Caltex Woolworths Greenwood,9,37 Canham Way (Cnr Wanneroo Rd),GREENWOOD,6024,3
+309,Caltex Woolworths Joondalup Winton Road,9,189 Winton Rd,JOONDALUP,6027,3
+310,Caltex Woolworths Kalgoorlie,9,104-108 Brookman St,KALGOORLIE,6430,18
+311,Caltex Woolworths Karratha,9,15 Warambie Rd (Cnr Macroy Rd),KARRATHA,6714,22
+312,Caltex Woolworths Kingsway,9,168 Wanneroo Rd (opp Giralt Rd),MADELEY,6065,3
+313,Caltex Woolworths Kwinana,9,6 Chisham Ave,KWINANA TOWN CENTRE,6167,2
+314,Caltex Woolworths Maddington Centro Shopping Centre,9,77 Attfield St,MADDINGTON,6109,2
+315,Caltex Woolworths Maddington West,9,207 Burslem Dr,MADDINGTON,6109,2
+316,Caltex Woolworths Mandurah Forum,9,318 Pinjarra Rd (Cnr Arnold St),MANDURAH,6210,4
+317,Caltex Woolworths Mandurah,9,10 Magenta Tce,MANDURAH,6210,4
+318,Caltex Woolworths Manjimup,9,89 Mottram St,MANJIMUP,6258,24
+319,Caltex Woolworths Miami,9,651-669 Old Coast Rd,FALCON,6210,4
+320,Caltex Woolworths Mirrabooka,9,53 Yirrigan Dr,MIRRABOOKA,6061,3
+321,Caltex Woolworths Morley Galleria,9,60 Russell St (Cnr Walter Rd West),MORLEY,6062,3
+322,Caltex Woolworths Northam,9,86 Wellington St,NORTHAM,6401,44
+323,Caltex Woolworths Osborne Park,9,401 Scarborough Beach Rd,OSBORNE PARK,6017,3
+324,Caltex Woolworths Port Hedland,9,150 Anderson St,PORT HEDLAND,6721,32
+325,Caltex Woolworths Port Kennedy,9,12 Saltaire Way,PORT KENNEDY,6172,2
+326,Caltex Woolworths South Fremantle,9,219 Hampton Rd,SOUTH FREMANTLE,6162,2
+327,Caltex Woolworths South Lake,9,752 North Lake Rd (Cnr Berrigan Dr),SOUTH LAKE,6164,2
+328,Caltex Woolworths Southern River,9,466 Warton Rd (Cnr Furley Rd),SOUTHERN RIVER,6110,2
+329,Caltex Woolworths Treendale,9,23 Grand Entrance (Cnr The Promenade),AUSTRALIND,6233,8
+330,Caltex Woolworths Warnbro Fair,9,202 Warnbro Sound Ave,WARNBRO,6169,2
+331,Caltex Woolworths Whitfords,9,470 Whitfords Ave,HILLARYS,6025,3
+332,Cape Agencies,8,20 Windsor Rd,WELLSTEAD,6328,6
+333,Carbunup River Store,3,6672 Bussell Hwy,CARBUNUP RIVER,6280,17
+334,Carnarvon Diesel Stop,8,1014 North West Coastal Hwy,CARNARVON,6701,12
+335,Chadwick (Esperance) Diesel Stop,8,16 Flinders Cct,ESPERANCE,6450,42
+336,Cheynes Beach Caravan Park,3,12 Bald Island Rd (Cnr Cheynes Rd),MANYPEAKS,6328,6
+337,Chidlow Growers Mart Liquor Store,3,570 Rosedale Rd,CHIDLOW,6556,5
+338,Coles Express Albany,10,250 Albany Hwy,ALBANY,6330,6
+339,Coles Express Banksia Grove,10,1001 Joondalup Dr,BANKSIA GROVE,6031,3
+340,Coles Express Beeliar,10,8 Durnin Ave,BEELIAR,6164,2
+341,Coles Express Bentley,10,1128 Albany Hwy,BENTLEY,6102,2
+342,Coles Express Bicton,10,394 Canning Hwy,BICTON,6157,2
+343,Coles Express Boulder,10,35 Frank St,BOULDER,6432,20
+344,Coles Express Brentwood,10,71 Cranford Ave,BRENTWOOD,6153,2
+345,Coles Express Brookdale,10,131 Eighth Rd,ARMADALE,6112,2
+346,Coles Express Broome,10,19 Napier Tce (Cnr Hamersley St),BROOME,6725,10
+347,Coles Express Bull Creek,10,44 Benningfield Rd (Cnr Leichhardt St),BULL CREEK,6149,2
+348,Coles Express Bunbury Gateway,10,12 Claughton Way,GLEN IRIS,6230,31
+349,Coles Express Bunbury,10,70 Forrest Ave,BUNBURY,6230,31
+350,Coles Express Busselton,10,88 Causeway Rd,BUSSELTON,6280,11
+351,Coles Express Butler,10,41 Butler Bvd,BUTLER,6036,3
+352,Coles Express Canning Vale,10,280 Bannister Rd,CANNING VALE,6155,2
+353,Coles Express Casuarina (WA),10,1 Johnson Rd (Cnr Thomas Rd),BERTRAM,6167,2
+354,Coles Express Claremont,10,269 Stirling Hwy,CLAREMONT,6010,3
+355,Coles Express Clarkson,10,Cnr Marmion Ave & Pensacola Tce,CLARKSON,6030,3
+356,Coles Express Cloverdale,10,223 Belmont Ave (Cnr Wright St),CLOVERDALE,6105,2
+357,Coles Express Collie,10,57 Johnston St (Cnr Prinsep St),COLLIE,6225,39
+358,Coles Express Dampier,10,47 Church Rd,DAMPIER,6713,45
+359,Coles Express Dianella,10,67 Walter Rd West (Cnr Grand Prom),DIANELLA,6059,3
+360,Coles Express Duncraig,10,193 Warwick Rd (Cnr Glengarry Dr),DUNCRAIG,6023,3
+361,Coles Express Dunsborough,10,1/64 Dunn Bay Rd,DUNSBOROUGH,6281,17
+362,Coles Express Edgewater,10,57 Joondalup Dr,EDGEWATER,6027,3
+363,Coles Express Ellenbrook,10,3 Goodwood Cres,ELLENBROOK,6069,3
+364,Coles Express Esperance,10,25 Andrew St,ESPERANCE,6450,42
+365,Coles Express Fitzroy Crossing Roadhouse,10,87 Great Northern Hwy,FITZROY CROSSING,6765,46
+366,Coles Express Forrestfield,10,2 Strelitzia Ave (Cnr Hale Rd),FORRESTFIELD,6058,5
+367,Coles Express Fremantle,10,101 Hampton Rd,FREMANTLE,6160,2
+368,Coles Express Girrawheen,10,60 Marangaroo Dr,GIRRAWHEEN,6064,3
+369,Coles Express Halls Head,10,14 Guava Way,HALLS HEAD,6210,4
+370,Coles Express Highgate,10,1-5 Guildford Rd,MT LAWLEY,6050,3
+371,Coles Express Jolimont,10,6 Jersey St (Cnr Hay St),JOLIMONT,6014,3
+372,Coles Express Karawara,10,222 Manning Rd,KARAWARA,6152,2
+373,Coles Express Kardinya,10,200 North Lake Rd,KARDINYA,6163,2
+374,Coles Express Karratha Travel & Truck,10,North West Coastal Hwy,KARRATHA,6714,22
+375,Coles Express Karratha,10,13 Searipple Rd (Cnr Welcome Rd),KARRATHA,6714,22
+376,Coles Express Kewdale,10,518 Abernethy Rd (Cnr Kewdale Rd),KEWDALE,6105,2
+377,Coles Express Kingsley,10,Cnr Moolanda Bvd & Hepburn Ave,KINGSLEY,6026,3
+378,Coles Express Kununurra Roadhouse,10,Lot 2259 Ivanhoe Rd,KUNUNURRA,6743,23
+379,Coles Express Kwinana Beach,10,4 Beach St,KWINANA BEACH,6167,2
+380,Coles Express Lakelands,10,49 Banksiadale Gte,LAKELANDS,6180,4
+381,Coles Express Langford,10,70 Nicholson Rd (Cnr Spencer Rd),LANGFORD,6147,2
+382,Coles Express Leeming,10,51 Farrington St (Cnr Findlay St),LEEMING,6149,2
+383,Coles Express Maddington,10,117 Burslem Dr,MADDINGTON,6109,2
+384,Coles Express Malaga,10,492 Alexander Dr (Cnr Truganina Rd),MALAGA,6090,3
+385,Coles Express Mandurah,10,Lot 800 Watson Dr,BARRAGUP,6210,1
+386,Coles Express Margaret River,10,78 Bussell Hwy,MARGARET RIVER,6285,9
+387,Coles Express Meekatharra Roadhouse,10,Lot 821 Main St,MEEKATHARRA,6642,47
+388,Coles Express Middle Swan,10,Lot 46 Great Northern Hwy (Cnr Toodyay Rd),MIDDLE SWAN,6056,5
+389,Coles Express Mosman Park,10,582 Stirling Hwy (Cnr Willis St),MOSMAN PARK,6012,3
+390,Coles Express Mount Lawley,10,253 Walcott St (Cnr Fitzgerald St),NORTH PERTH,6006,3
+391,Coles Express Mount Pleasant,10,1 The Esplanade (Cnr Canning Hwy),MT PLEASANT,6153,2
+392,Coles Express Myaree,10,69 North Lake Rd (Cnr Marmion St),MYAREE,6154,2
+393,Coles Express Northam,10,Cnr Wellington St East & Gairdner St,NORTHAM,6401,44
+394,Coles Express Ocean Reef,10,6 Marina Bvd (Cnr Marmion Ave),OCEAN REEF,6027,3
+395,Coles Express Palmyra,10,80 Carrington St (Cnr Marmion St),PALMYRA,6157,2
+396,Coles Express Perth,10,480 William St,PERTH,6000,3
+397,Coles Express Port Hedland,10,Lot 2065 Wilson St,PORT HEDLAND,6721,32
+398,Coles Express Scarborough,10,205 West Coast Hwy,SCARBOROUGH,6019,3
+399,Coles Express Singleton,10,492 Mandurah Rd,SINGLETON,6175,2
+400,Coles Express South Hedland Roadhouse,10,Lot 5553 Great Northern Hwy,WEDGEFIELD,6722,32
+401,Coles Express South Perth,10,3 Canning Hwy (Cnr Mill Point Rd),SOUTH PERTH,6151,2
+402,Coles Express Southern River,10,216 Lakey St (Cnr Ranford Rd),SOUTHERN RIVER,6110,2
+403,Coles Express Tarcoola,10,2 Fortyn Ct,GERALDTON,6530,7
+404,Coles Express Upper Swan Roadhouse,10,1333 Great Northern Hwy,UPPER SWAN,6069,5
+405,Coles Express Vasse,10,2 Napoleon Prom,VASSE,6280,17
+406,Coles Express Victoria Park,10,66 Kent St (Cnr Berwick St),EAST VICTORIA PARK,6101,2
+407,Coles Express Waikiki,10,1-9 Gnangara Dr (Cnr Read St),WAIKIKI,6169,2
+408,Coles Express Wangara,10,1 Niche Pde,WANGARA,6065,3
+409,Coles Express Wanneroo Pearsall,10,621 Wanneroo Rd,WANNEROO,6065,3
+410,Coles Express Warwick (WA),10,274 Erindale Rd,WARWICK,6024,3
+411,Coles Express Wembley,10,337 Cambridge St,WEMBLEY,6014,3
+412,Coles Express West Perth,10,30 Thomas St (Cnr Wellington St),WEST PERTH,6005,3
+413,Coles Express Westfield,10,88 Champion Dr (Cnr Seville Dr),SEVILLE GROVE,6111,2
+414,Coles Express Willetton,10,239 High Rd (Cnr Vahland Ave),WILLETTON,6155,2
+415,Coles Express Wonthella,10,115 North West Coastal Hwy,GERALDTON,6530,7
+416,Colroy Country Kitchen,8,93 Capel Dr,CAPEL,6271,38
+417,Condello's Liquor Waterloo,6,14755 South Western Hwy,PICTON EAST,6229,41
+418,Cowaramup Service Station,3,60 Bussell Hwy,COWARAMUP,6284,9
+419,Crudeli's Auto Repairs,5,24 Maitland Rd,MULLEWA,6630,7
+420,Dalwallinu Motors,11,4 Johnston St,DALWALLINU,6609,48
+421,Dardanup Garage & Service Station,8,11 Charlotte St,DARDANUP,6236,41
+422,Darnell's General Store,3,1230 Rosa Brook Rd,ROSA BROOK,6285,9
+423,De Rosa's Highway Motors,3,8222 South Western Hwy,WAROONA,6215,49
+424,Derby Fuels,12,46 Clarendon St,DERBY,6728,13
+425,Dongara Hardware,8,39 Moreton Tce,DONGARA,6525,35
+426,Dunning's Broome,12,7 Clementson St,BROOME,6725,10
+427,Dunning's Carnarvon,12,99 Robinson St,CARNARVON,6701,12
+428,Dunning's Dongara,12,30215 Brand Hwy,DONGARA,6525,35
+429,Dunning's KCD Fuels,3,520 Robinson St,CARNARVON,6701,12
+430,Dunning's Manjimup,3,5 Margerison St,MANJIMUP,6258,24
+431,Dunning's Newman,12,21 Willis St (Cnr Woodstock St),NEWMAN,6753,29
+432,Dunning's Northam,12,38 Peel Tce (Cnr Duke St),NORTHAM,6401,44
+433,Dunning's Picton,12,254 South Western Hwy,PICTON,6229,31
+434,Dunning's Thompsons Garage,12,127 Giblett St,MANJIMUP,6258,24
+435,Dwellingup BP,5,48 McLarty St,DWELLINGUP,6213,1
+436,Eagle Ravensthorpe,13,111 Morgans St,RAVENSTHORPE,6346,33
+437,Eagle West Kalgoorlie Truckstop,13,2 Brinsden Rd,WEST KALGOORLIE,6430,18
+438,Elleker General Store,11,1309 Lower Denmark Rd,ALBANY,6330,6
+439,Exmouth Fuel Supplies,3,2 Huston St,EXMOUTH,6707,43
+440,FastFuel 24/7,14,54 Cumberland Rd,FORRESTFIELD,6058,5
+441,Fitzroy Crossing Diesel Stop,8,53 Emanuel Way,FITZROY CROSSING,6765,46
+442,Fitzroy River Lodge,3,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,46
+443,Four Sisters BP Walpole,5,18 Nockolds St,WALPOLE,6398,24
+444,Fruit Barn,15,7 South Western Hwy,DONNYBROOK,6239,16
+445,GD's Brunswick Roadhouse,8,94 Ommaney Rd,BRUNSWICK,6224,8
+446,Geographe IGA,6,328 Marine Tce (Cnr Armitage Dr),BUSSELTON,6280,11
+447,Geographe Petroleum Margaret River,8,12 Auger Way,MARGARET RIVER,6285,9
+448,Geographe Petroleum,8,84 Strelley St (Cnr Fairlawn Rd),BUSSELTON,6280,11
+449,Glen Forrest Fuel,3,20 Great Eastern Hwy,GLEN FORREST,6071,5
+450,Gracie's General,3,2 Bayview Dr,GRACETOWN,6284,9
+451,Greenbushes Roadhouse,8,28 Blackwood Rd,GREENBUSHES,6254,34
+452,Gull Coronation Service Station,15,143 Throssell St,COLLIE,6225,39
+453,Gull Moora,15,65 Roberts St,MOORA,6510,25
+454,Gull Rockingham,15,40 Kent St,ROCKINGHAM,6168,2
+455,Gull Strickland St East Bunbury,15,81-83 Strickland St (Cnr King Rd),BUNBURY,6230,31
+456,Gull Waterloo Roadhouse,15,14270 South Western Hwy,WATERLOO,6228,41
+457,Gull York Roadhouse,15,63 Avon Tce,YORK,6302,50
+458,Harbour Rd Truckstop,5,213 Harbour Rd,ESPERANCE,6450,42
+459,Herne Hill General Store,11,777 Great Northern Hwy,HERNE HILL,6056,5
+460,Hi-Way Sales & Service 1982,8,154 Albany Hwy,KOJONUP,6395,51
+461,Hills Emporio,3,1615 Canning Rd,KARRAGULLEN,6111,5
+462,Hillview Roadhouse and Motel,12,47 Albany Hwy,KOJONUP,6395,51
+463,Jurien Bay Service Station & Roadhouse,8,22 Bashford St,JURIEN BAY,6516,19
+464,Karnup Roadhouse,5,2263 Mandurah Road,KARNUP,6176,4
+465,Karridale Crossroads General Store,8,12425 Bussell Hwy,KARRIDALE,6288,9
+466,Kwikfuel Osborne Park,16,7 Hutton St,OSBORNE PARK,6017,3
+467,Liberty Kalgoorlie,6,69-71 Wilson St,KALGOORLIE,6430,18
+468,Liberty Oil Convenience,6,557 Albany Hwy,ALBANY,6330,6
+469,Liberty Perth,6,17 Brisbane St (Cnr Pier St),PERTH,6000,3
+470,Liberty Roadhouse Cataby,6,10805 Brand Hwy,CATABY,6507,52
+471,Little Grove General Store,12,639 Frenchmans Bay Rd,ALBANY,6330,6
+472,Lori's Fuel Supply,3,259 Railway Ave,KELMSCOTT,6111,2
+473,Maisey Fuels,3,490 Rudds Gully Rd,NARNGULU,6532,7
+474,Manypeaks Store,5,43738 South Coast Hwy,MANYPEAKS,6328,6
+475,Meekatharra Caravan Park,3,119 Main St,MEEKATHARRA,6642,47
+476,Meekatharra Corner Store,5,16 Main St,MEEKATHARRA,6642,47
+477,Metro Jurien Bay,17,74 Bashford St,JURIEN BAY,6516,19
+478,Moonyoonooka Store,8,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,53
+479,Mt Barker Fuel Services,3,48 Lowood Rd,MOUNT BARKER,6324,26
+480,Mundijong Store & Deli,3,20 Paterson St,MUNDIJONG,6123,2
+481,Narrogin Gasworx,3,22 Fairway St,NARROGIN,6312,28
+482,Ngiyali Roadhouse,5,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,46
+483,NightOwl Shell Bellevue,12,49 Great Eastern Hwy,BELLEVUE,6056,5
+484,NightOwl Shell Kalamunda,12,7 Mead St,KALAMUNDA,6076,5
+485,NightOwl Shell Maddington,12,1 Davison St,MADDINGTON,6109,2
+486,NightOwl Shell Ravenswood,12,50 Beacham Rd,RAVENSWOOD,6208,1
+487,NightOwl Shell Redcliffe,12,443 Great Eastern Hwy,REDCLIFFE,6104,2
+488,Northcliffe Newsagent & General Store,3,17 Zamia St,NORTHCLIFFE,6262,24
+489,Northcliffe Postal Services and Agencies,3,72 Wheatley Coast Rd,NORTHCLIFFE,6262,24
+490,Oyster Harbour Store,6,4 Bayonet Head Rd (Cnr Lower King Rd),ALBANY,6330,6
+491,Pemberton Garage & Service Station,3,84 Brockman St,PEMBERTON,6260,24
+492,Phoenix Barlee St,3,31 Barlee St,BUSSELTON,6280,11
+493,Pioneer Store,3,10 Nockolds St,WALPOLE,6398,24
+494,Placid Ark Roadhouse,18,6947 South Western Hwy,COOLUP,6214,1
+495,Preston Beach General Store,15,52 Mitchell Rd,PRESTON BEACH,6215,49
+496,Puma 440 Roadhouse,11,1182 Chapman Rd,GLENFIELD,6532,53
+497,Puma Alexander Heights,11,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,3
+498,Puma Armadale Central,11,Cnr Neerigan St & Third Rd,ARMADALE,6112,2
+499,Puma Balcatta,11,229 Balcatta Rd,BALCATTA,6021,3
+500,Puma Baldivis,11,67 Ridge Bvd,BALDIVIS,6171,2
+501,Puma Bayswater,11,502 Guildford Rd,BAYSWATER,6053,3
+502,Puma Bellevue,11,18 Clayton St,BELLEVUE,6056,5
+503,Puma Belmont,11,33 Belvidere St (Cnr Keymer St),BELMONT,6104,2
+504,Puma Burswood,11,265 Gt Eastern Hwy,BURSWOOD,6100,2
+505,Puma Busselton,11,99 Causeway Rd,BUSSELTON,6280,11
+506,Puma Byford,11,8 Kardan Bvd (Cnr Thomas Rd),BYFORD,6122,2
+507,Puma Carnarvon OPT,11,59 Hudson St,CARNARVON,6701,12
+508,Puma Causeway,11,170 Albany Hwy (Causeway),VICTORIA PARK,6100,2
+509,Puma Como,11,393 Canning Hwy,COMO,6152,2
+510,Puma Dayton,11,8 Repton St,DAYTON,6055,3
+511,Puma Dianella,11,61 Walter Rd,DIANELLA,6059,3
+512,Puma El Caballo Roadhouse,11,3381 Great Eastern Hwy,WUNDOWIE,6558,54
+513,Puma Esperance OPT,11,Lot 491 Sims St,ESPERANCE,6450,42
+514,Puma Esperance,11,49 Norseman Rd,ESPERANCE,6450,42
+515,Puma First Avenue Mt Lawley,11,81 Guildford Rd,MT LAWLEY,6050,3
+516,Puma Gingers,11,1383 Great Northern Hwy,UPPER SWAN,6069,5
+517,Puma Glen Forrest,11,1/1400 Great Eastern Hwy,GLEN FORREST,6071,5
+518,Puma Gnangara,11,220 Gnangara Rd,GNANGARA,6077,3
+519,Puma Guildford,11,16 Johnson St,GUILDFORD,6055,3
+520,Puma Gwelup,11,1 Wishart St (Cnr North Beach Rd),GWELUP,6018,3
+521,Puma Hamilton Hill,11,224 Clontarf Rd,HAMILTON HILL,6163,2
+522,Puma Harvey,11,81 Uduc Rd,HARVEY,6220,8
+523,Puma Henderson OPT,11,81 Quill Way,HENDERSON,6166,2
+524,Puma High Wycombe,11,494 Kalamunda Rd,HIGH WYCOMBE,6057,5
+525,Puma Joondalup,11,49 Candlewood Bvd,JOONDALUP,6027,3
+526,Puma Kalamunda,11,26 Kalamunda Rd,KALAMUNDA,6076,5
+527,Puma Kalgoorlie Boulder Rd,11,5 Boulder Rd,KALGOORLIE,6430,18
+528,Puma Kalgoorlie Fuel Point,11,9 Kayili Rd,WEST KALGOORLIE,6430,20
+529,Puma Kalgoorlie Towers,11,9 Maritana St (Cnr Bourke St),KALGOORLIE,6430,18
+530,Puma Karragullen Motors,11,164 Brookton Hwy,KARRAGULLEN,6111,5
+531,Puma Kewdale,11,23 Kewdale Rd,KEWDALE,6105,2
+532,Puma Kiara,11,157 Morley Dr,KIARA,6054,3
+533,Puma Kununurra Depot,11,2257 Victoria Hwy,KUNUNURRA,6743,23
+534,Puma Kununurra,11,32 Bandicoot Dr (Cnr Pruinosa St),KUNUNURRA,6743,23
+535,Puma Kwinana OPT,11,Cnr Mandurah Rd & Beach St,KWINANA BEACH,6167,2
+536,Puma Landsdale,11,182 Wanneroo Rd,MADELEY,6065,3
+537,Puma Lesmurdie,11,194 Canning Rd,LESMURDIE,6076,5
+538,Puma Lynwood,11,2 Lynwood Ave (Cnr Metcalfe Rd),LYNWOOD,6147,2
+539,Puma Maddington,11,137 Kelvin Rd,MADDINGTON,6109,2
+540,Puma Malaga,11,1896 Beach Rd (Cnr Crocker Dr),MALAGA,6090,3
+541,Puma Mandurah,11,715 Pinjarra Rd,BARRAGUP,6209,1
+542,Puma Manjimup Roadhouse,11,1182 South Western Hwy,MANJIMUP,6258,24
+543,Puma Meadow Springs,11,25 Meadow Springs Dr,MEADOW SPRINGS,6210,4
+544,Puma Merriwa,11,4 Hughie Edwards Dr (Cnr Marmion Ave),MERRIWA,6030,3
+545,Puma Midvale,11,232-234 Morrison Rd,MIDVALE,6056,5
+546,Puma Mindarie,11,22 Anchorage Dr,MINDARIE,6030,3
+547,Puma Mt Melville,11,317 Albany Hwy,ALBANY,6330,6
+548,Puma Mundaring,11,7060 Great Eastern Hwy,MUNDARING,6073,5
+549,Puma Munster,11,512 Rockingham Rd,MUNSTER,6166,2
+550,Puma Myalup,11,7080 Forrest Hwy,BINNINGUP,6233,8
+551,Puma Neerabup,11,2056 Wanneroo Rd,NEERABUP,6031,3
+552,Puma North Perth,11,311 Fitzgerald St,NORTH PERTH,6006,3
+553,Puma Ord River Roadhouse,11,5 Messmate Way,KUNUNURRA,6743,23
+554,Puma Osborne Park,11,8 Main St,OSBORNE PARK,6017,3
+555,Puma Parks,11,140 Bussell HwyThe Park Centre,BUNBURY,6230,31
+556,Puma Parmelia,11,60 Meares Ave (Cnr Challenger Ave),KWINANA TOWN CENTRE,6167,2
+557,Puma Pearsall,11,204 Shiraz Bvd (Cnr Cabernet Loop),PEARSALL,6065,3
+558,Puma Phoenix,11,216 Rockingham Rd (Cnr Phoenix Rd),HAMILTON HILL,6163,2
+559,Puma Ranford,11,4 Remisko Dr,FORRESTDALE,6112,2
+560,Puma Sawyers Valley,11,96 Great Eastern Hwy,SAWYERS VALLEY,6074,5
+561,Puma Settlers Roadhouse,11,6043 Forrest Hwy,MYALUP,6220,8
+562,Puma South Hedland,11,Lot 401 Altitude Ave (Cnr Wallwork Rd),PORT HEDLAND,6722,32
+563,Puma Stratham Downs Roadhouse,11,1540 Bussell Hwy,STRATHAM,6237,38
+564,Puma Tammin Roadhouse,11,15323 Great Eastern Hwy,TAMMIN,6409,55
+565,Puma Tarcoola,11,156 Brand Hwy (Cnr Broadhead Ave),GERALDTON,6530,7
+566,Puma Wangara,11,1 Brady St (Cnr Ocean Reef Rd),WANGARA,6065,3
+567,Puma Wanneroo,11,951 Wanneroo Rd,WANNEROO,6065,3
+568,Puma Warnbro,11,649-651 Safety Bay Rd,WARNBRO,6169,2
+569,Puma Wattle Grove,11,604 Welshpool Rd East,WATTLE GROVE,6107,5
+570,Puma Wedgefield OPT,11,3 Manganese St,WEDGEFIELD,6721,32
+571,Puma Yanchep,11,1 Ikara Lane (Cnr Kakadu Rd),YANCHEP,6035,3
+572,Puma Yokine,11,86 Flinders St (Cnr Hector St),YOKINE,6060,3
+573,Puma Yule-Du Roadhouse,11,681 Albany Hwy,BEDFORDALE,6112,5
+574,Refuel Australia - Carnarvon,8,40 Harbour Rd,CARNARVON,6701,12
+575,Refuel Australia - Cataby,8,10513 Brand Hwy,CATABY,6507,52
+576,Refuel Australia - Dalwallinu,8,2 Clinch Rd,DALWALLINU,6609,48
+577,Refuel Australia - Deepdale Meru,8,256 Deepdale Rd,GERALDTON,6530,7
+578,Refuel Australia - Geraldton Flores Road,8,120 Flores Rd,GERALDTON,6530,7
+579,Refuel Australia - Geraldton Willcock Drive,8,Cnr John Willcock Link & Portway,GERALDTON,6530,7
+580,Refuel Australia - Meckering,8,57 Great Eastern Hwy,MECKERING,6405,56
+581,Refuel Australia - Meekatharra,8,81 Oliver St,MEEKATHARRA,6642,47
+582,Refuel Australia - Port Hedland,8,Lot 945 Great Northern Hwy,PORT HEDLAND,6722,32
+583,Refuel Australia - Sunset Geraldton,8,620 Chapman Rd,GERALDTON,6530,7
+584,S-Bend Caravan Park,6,27 Company Rd,GREENOUGH,6532,53
+585,Serpentine Falls Roadhouse,3,2 Falls Rd (Cnr South Western Hwy),SERPENTINE,6125,2
+586,Shell Albany Orana,12,346 Albany Hwy,ALBANY,6330,6
+587,Shell Alkimos,12,Cnr Marmion Av & Santorini Dr,ALKIMOS,6038,3
+588,Shell Armadale,12,269 South Western Hwy (Cnr Dickens Pl),ARMADALE,6112,2
+589,Shell Bullsbrook,12,2539 Great Northern Hwy,BULLSBROOK,6084,5
+590,Shell Fresh Trading Co Ascot,12,472-480 Great Eastern Hwy,ASCOT,6104,2
+591,Shell Fresh Trading Co Welshpool,12,36 Welshpool Rd,WELSHPOOL,6106,2
+592,Shell Gidgegannup,12,2095 Toodyay Rd,GIDGEGANNUP,6083,5
+593,Shell High Wycombe,12,1100 Abernethy Rd,HIGH WYCOMBE,6057,5
+594,Shell Jarrahdale,12,2 Jarrahdale Rd (Cnr South Western Hwy),JARRAHDALE,6124,2
+595,Shell Lower King Liquor & General,12,629 Lower King Rd,ALBANY,6330,6
+596,Shell Meckering Truckstop,12,31 Dreyer St,MECKERING,6405,56
+597,Shell Narrogin,12,44 Egerton St (Cnr Earl St),NARROGIN,6312,28
+598,Shell North Bannister Truckstop & Tavern,12,6519 Albany Hwy,NORTH BANNISTER,6390,57
+599,Shinju BP,5,101 Guy St,BROOME,6725,10
+600,Smart Mart Newman,12,Lot 1 Newman Dr (Cnr Cowra Dr),NEWMAN,6753,29
+601,Smart Mart Pure Convenience - Flores Rd,5,280 Fourth St (Cnr Flores Rd),GERALDTON,6530,7
+602,Smiths Shell Service,12,86 Avon Tce,YORK,6302,50
+603,The Canal Shop,3,16 South Yunderup Rd,SOUTH YUNDERUP,6208,1
+604,Tomeo's Service Station,5,1287 Brookton Hwy,KARRAGULLEN,6111,5
+605,Twin City Cabs,3,4-6 Cassidy St,KALGOORLIE,6430,18
+606,United Albany Central,1,309 Albany Hwy,ALBANY,6330,6
+607,United Albany Public Depot,1,19 Pendeen Rd,ALBANY,6330,6
+608,United Armadale,1,178 South Western Hwy,ARMADALE,6112,2
+609,United Bassendean,1,335 Collier Rd (Cnr Fairford St),BASSENDEAN,6054,3
+610,United Bibra Lake,1,13 Whyalla Ct,BIBRA LAKE,6163,2
+611,United Boulder Kalgoorlie,1,26 Davis St (Cnr Lane St),BOULDER,6432,20
+612,United Broome,1,49 Reid Rd,BROOME,6725,10
+613,United Byford,1,801-803 South Western Highway,BYFORD,6122,2
+614,United Denmark,1,45 South Coast Hwy,DENMARK,6333,15
+615,United East Victoria Park,1,916 Albany Hwy,EAST VICTORIA PARK,6101,2
+616,United Ellenbrook,1,3 Locke Lane,ELLENBROOK,6069,3
+617,United Hamilton Hill,1,9 Winterfold Rd,HAMILTON HILL,6163,2
+618,United Hepburn Heights,1,4 Walter Padbury Bvd (Cnr Hepburn Ave),PADBURY,6025,3
+619,United Kellerberrin,1,150 Massingham St (Cnr Chambers St),KELLERBERRIN,6410,58
+620,United Kewdale,1,410-412 Orrong Rd,KEWDALE,6105,2
+621,United Kojonup,1,138 Albany Hwy,KOJONUP,6395,51
+622,United Leda,1,2 Feilman Dr (Cnr Gilmore Ave),LEDA,6170,2
+623,United Lexia,1,779 Gnangara Rd,LEXIA,6065,3
+624,United Manjimup,1,1 Rose St (Cnr Pritchard St),MANJIMUP,6258,24
+625,United Mount Barker Roadhouse,1,31763 Albany Hwy,MOUNT BARKER,6324,26
+626,United Mt Lawley,1,791 Beaufort St,MT LAWLEY,6050,3
+627,United Myaree,1,182 Leach Hwy,MYAREE,6154,2
+628,United Neerabup,1,2038 Wanneroo Rd,NEERABUP,6031,3
+629,United Northbridge,1,31 Fitzgerald St,NORTHBRIDGE,6003,3
+630,United Osborne Park,1,479 Scarborough Beach Rd,OSBORNE PARK,6017,3
+631,United Quinns Rocks,1,121 Quinns Rd (Cnr Tapping Way),QUINNS ROCKS,6030,3
+632,United Rangeway,1,50 Rifle Range Rd,GERALDTON,6530,7
+633,United Roleystone,1,11 Wygonda Rd,ROLEYSTONE,6111,5
+634,United South Lake,1,49 Berrigan Dr (Cnr South Lake Dr),SOUTH LAKE,6164,2
+635,United Southern River,1,Lot 101 Terrier Pl (Cnr Ranford Rd),SOUTHERN RIVER,6110,2
+636,United Swanbourne,1,2 Servetus St,SWANBOURNE,6010,3
+637,Vasse General Store,15,28 Northerly St,VASSE,6280,17
+638,Vibe Armadale,19,126 Forrest Rd,ARMADALE,6112,2
+639,Vibe Ascot,19,268 Great Eastern Hwy,ASCOT,6104,2
+640,Vibe Bridgetown,19,169 Hampton St,BRIDGETOWN,6255,34
+641,Vibe Broadwater,19,375 Bussell Hwy,BROADWATER,6280,11
+642,Vibe Bunbury,19,42 Strickland St,BUNBURY,6230,31
+643,Vibe Byford,19,868 South Western Hwy,BYFORD,6122,2
+644,Vibe Charles St,19,427 Charles St,NORTH PERTH,6006,3
+645,Vibe Coolgardie,19,1 Bayley St,COOLGARDIE,6429,40
+646,Vibe Donnybrook,19,45 South Western Hwy,DONNYBROOK,6239,16
+647,Vibe Hamilton Hill,19,114 Rockingham Rd,HAMILTON HILL,6163,2
+648,Vibe Harvey,19,46 South Western Hwy,HARVEY,6220,8
+649,Vibe Kwinana,19,4 Ocean St (Cnr Patterson Rd),KWINANA BEACH,6167,2
+650,Vibe Mandurah,19,2 Rafferty Rd (Cnr Reserve Dr),MANDURAH,6210,4
+651,Vibe Mt Helena,19,9 McVicar Pl,MT HELENA,6082,5
+652,Vibe Nollamara,19,66 Sylvia St,NOLLAMARA,6061,3
+653,Vibe Pinjarra,19,58 George St,PINJARRA,6208,1
+654,Vibe Port Kennedy,19,35 Blackburn Dr (Cnr Port Kennedy Dr),PORT KENNEDY,6172,2
+655,Vibe Siesta Park,19,345 Caves Rd,SIESTA PARK,6280,17
+656,Vibe Spearwood,19,333 Rockingham Rd,SPEARWOOD,6163,2
+657,Vibe Subiaco,19,123 Thomas St,SUBIACO,6008,3
+658,Vibe Toodyay Rd,19,2086 Toodyay Rd,GIDGEGANNUP,6083,5
+659,Vibe Treendale,19,157 Grand Ent,AUSTRALIND,6233,8
+660,Vibe Upper Swan,19,1447 Great Northern Hwy,UPPER SWAN,6069,5
+661,Vibe Waroona,19,89 South Western Hwy,WAROONA,6215,49
+662,Vibe Welshpool,19,124 Welshpool Rd,WELSHPOOL,6106,2
+663,Vibe Witchcliffe,19,10428 Bussell Hwy,WITCHCLIFFE,6286,9
+664,Vibe Yangebup,19,109 Barrington St (Cnr Stock Rd),YANGEBUP,6164,2
+665,WA Fuels Kwinana Beach,18,44 Mandurah Rd,KWINANA BEACH,6167,2
+666,Walkaway General Store,3,1 Evans Rd,WALKAWAY,6528,53
+667,Waroona Roadhouse,11,32 South Western Hwy,WAROONA,6215,49
+668,Wesco North Perth,20,41 Angove St,NORTH PERTH,6006,3
+669,Whalley's United Beachway,1,258 Middleton Rd,ALBANY,6330,6
+670,Whalley's United Uberwash,1,225 Albany Hwy,ALBANY,6330,6
+671,Windmill Roadhouse,6,1 Darch St,REGANS FORD,6507,59
+672,Yarrumba Service Station,6,21 Jose St,MULLEWA,6630,7
+673,Young Siding General Store,5,19 Station St,YOUNGS SIDING,6330,6
+674,7-Eleven Carlisle,2,232 Orrong Rd,CARLISLE,6101,2
+675,Vibe Ascot IGA Xpress,19,268 Great Eastern Hwy,ASCOT,6104,2
+676,Vibe Bunbury IGA XPress,19,42 Strickland St,BUNBURY,6230,31
+677,Vibe Mt Helena IGA Xpress,19,9 McVicar Pl,MT HELENA,6082,5
+678,Vibe Toodyay Rd IGA XPress,19,2086 Toodyay Rd,GIDGEGANNUP,6083,5
+679,Vibe Upper Swan IGA Xpress,19,1447 Great Northern Hwy,UPPER SWAN,6069,5
+680,Vibe Waroona IGA Xpress,19,89 South Western Hwy,WAROONA,6215,49
+681,Liberty Gosnells,6,2341 Albany Hwy,GOSNELLS,6110,2
+682,Route 94 Bakers Hill,1,4641 Great Eastern Highway,BAKERS HILL,6562,60
+683,Costco Perth Airport,21,142 Dunreath Dr,PERTH AIRPORT,6105,2
+684,Liberty Karratha,6,2 Cockatoo St,KARRATHA,6714,22
+685,Mobil Fresh Trading Co Northam,22,Cnr Great Eastern Hwy & Yilgarn Ave,MALABINE,6401,60
+686,Maisey Fuels,3,490 Rudds Gully Rd,GERALDTON,6532,7
+687,BP Edgewater,5,2 The Gateway,EDGEWATER,6027,3
+688,Maisey Fuels,3,490 Rudds Gully Rd,GERALDTON,6530,7
