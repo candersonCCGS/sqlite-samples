@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fuel Watch Database</title>
+    <link href="main_style.css" rel="stylesheet">
+</head>
+<body>
+    <div id="container">
+        <header>
+            <p><a href="../index.html">Return to Home Page</a></p>
+        </header>
+        
+        <div class="queryForm">
+            <h3>Stations in a Region</h3>
+            <form action="cgi-bin/select_stations_in_region.py">
+                Find all the stations in a selection region.<br />
+                Enter the area: <input type="text" name="region_value" /><br />
+                <input type="submit">
+            </form>
+            <p>NOTE: Some regions include: Peel, Metro, South-West, Kimberley, Gascoyne</p>
+        </div>
+
+        <div class="queryForm">
+            <h3>Stations in a Region (using a dropdown)</h3>
+            <form action="cgi-bin/select_stations_in_region.py">
+                <select name="region_value">
+                    <option value="Gascoyne">Gascoyne</option>
+                    <option value="Goldfields-Esperance">Goldfields-Esperance</option>
+                    <option value="Great Southern">Great Southern</option>
+                    <option value="Kimberley">Kimberley</option>
+                    <option value="Metro">Metro</option>
+                    <option value="Mid-West">Mid-West</option>
+                    <option value="Peel">Peel</option>
+                    <option value="Pilbara">Pilbara</option>
+                    <option value="South-West">South-West</option>
+                    <option value="Wheatbelt">Wheatbelt</option>
+                </select>
+                <input type="submit">
+            </form>
+        </div>
+
+        <footer>
+            <p><a href="../index.html">Return to Home Page</a></p>
+        </footer>
+        
+    </div>
+</body>
+</html>
