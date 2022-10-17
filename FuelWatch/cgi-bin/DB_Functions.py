@@ -21,7 +21,7 @@ def print_Records(records):
 		print('</table>')
 	else:
 		# Return paragraph if not records have been found
-		print('<p>No records found</p>')
+		print('<p class="no_records">No records found</p>')
 
 # Build the start of the html page, including title and link to stylesheet
 def startHTML(title, stylesheet):
