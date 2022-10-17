@@ -1,0 +1,33 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+#sample_queries, #my_queries {
+    border: black 2px solid;
+    padding: 3px;
+    margin: 3px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+th {
+    background: #aa3939;
+}
+
+tr:nth-child(even) {
+    background: #f87b7b;
+}
+
+tr:nth-child(odd) {
+    background: #ffa8a8;
+}
+
+
+
