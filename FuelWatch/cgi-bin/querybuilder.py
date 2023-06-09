@@ -45,8 +45,6 @@ def createQueries(in_name, out_name, table):
         if record[0] != '':
           line = f"cursor.execute('''INSERT INTO {table} ("
           line += ', '.join(field_names)
-          # for name in field_names:
-          #   line += f'{name}, '
           line += ') VALUES ('
           for field in record:
             # if value is a digit add value, otherwise put quotation marks around string
